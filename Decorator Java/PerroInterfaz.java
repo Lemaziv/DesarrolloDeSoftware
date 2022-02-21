@@ -1,0 +1,3 @@
+interface PerroInterfaz {
+    void existir();
+}
